@@ -1,4 +1,6 @@
-**Archived, moved to Codeberg: https://codeberg.org/DecaTec/Wsapm-RemovableDevices**
+### ⚠️ Archived, moved to Codeberg: https://codeberg.org/DecaTec/Wsapm-RemovableDevices ⚠️
+
+Thus, this GitHub repository is **outdated** and **not longer maintained on GitHub**. Please update your references.
 
 # Windows Server Advanced Power Management - RemovableDevices plugin
 RemovableDevices is a plugin for Windows Server Advanced Power Management (https://github.com/DecaTec/Wsapm). It enables you to suppress standby if any removable devices are present.
